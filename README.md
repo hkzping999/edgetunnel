@@ -1,4 +1,5 @@
 部署，把源码粘贴到worker项目保存运行
+源码https://github.com/hkzping999/edgetunnel/blob/main/src/worker-vless.js
 1.有域名（有tls加密，443端口)，推荐！
 Custom Domains查看——添加自定义域——填1个二级域名
 点击自定义域，在二级域名后加/UUID，就能看到VLESS节点URL和Clash-meta配置
